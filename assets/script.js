@@ -11,7 +11,7 @@ const CONFIG = {
     github: "https://github.com/8dsasb",
     cvUrl: "#",
     profileImage: "https://avatars.githubusercontent.com/u/25223893?v=4",
-    pinnedRepos: ["foodSnapID", "domain-ranking-app", "explainable-churn-prediction"],
+    pinnedRepos: ["lane-detection", "llm-chat-starter-app", "llm-chat-starter-app"],
     skills: {
         "Languages & Frameworks": ["HTML", "CSS", "PHP", "Laravel", "JavaScript", "React.js", "Python", "NumPy", "Pandas", "TensorFlow", "Keras", "OpenCV", "SQL"],
         "Data Science & ML": ["Supervised Learning", "Deep Learning", "NLP", "LangChain", "Computer Vision", "Transformers", "spaCy", "NLTK"],
